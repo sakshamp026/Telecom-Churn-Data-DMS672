@@ -1,1 +1,3 @@
-# Telecom-Churn-Data-DMS672
+# Telecom-Churn-Data-Analysis
+
+Course Project for DMS672
